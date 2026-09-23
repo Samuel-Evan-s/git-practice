@@ -1,2 +1,7 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+## Title: The Adaptable Engineer: While AI Reshapes Technical Tools, Core Skills are Constant
+
+### Link to article: [text](https://ieeexplore.ieee.org/document/11683582)
+
+The article discusses what it means to be an adaptable software engineer in today’s rapidly changing technological landscape, particularly with the growing influence of AI. I found the article to be very timely and resourceful in explaining how different stakeholders, including employers, educators, and engineering teams, contribute to the successful adaptation of software engineers. More importantly, it highlights the responsibility engineers themselves have in remaining adaptable. As technologies and development practices continue to evolve, software engineers cannot rely solely on the technical skills they already possess. They must be willing to continuously learn, experiment with new tools, and adjust how they approach problems. I particularly resonated with Andy Hunt’s point that tools and technologies will continue to change, while problem-solving and communication remain fundamental. It reminded me to focus on becoming a strong engineer rather than defining myself by a particular language or tool.
+
+"Employers, he says, should recognize that “the tech's not the hard part, and it never has been. Understanding information theory, understanding systems thinking, understanding what constraints you're up to—that's still the hard part.”"
